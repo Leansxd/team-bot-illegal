@@ -1,6 +1,7 @@
 # FiveM Ekip Discord Botu
 
-Bu bot, FiveM ekipleri için moderasyon, etkinlik ve basit OT (puan) yönetimi sağlar.
+- Bu bot, FiveM ekipleri için moderasyon, etkinlik ve basit OT (puan) yönetimi sağlar.
+- Bu bot oyun amaçlı yapılmıştır!
 
 ## Özellikler
 - Toplu mesaj gönder (belirli roldeki herkese DM)
